@@ -1,2 +1,2 @@
 # Kubernetes
-Kubernetes Cluster code using Vagrant, ansible
+Kubernetes Cluster via Code using ansible, vagrant
