@@ -5,7 +5,7 @@
 
 <h2>Step:-1 - Setup VM for Master, worker, Loadbalancer and Admin </h2>
 
-Make sure you are at location `github/imagincloud/kubernetes/setup-k8s/theHardWay`
+Clone the repo, Go to the file location.
 
 COMMAND:- `vagrant up`
 
